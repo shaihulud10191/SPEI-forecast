@@ -1,0 +1,1 @@
+A bespoke method to forecast the Standardized Precipitation Evapotranspiration Index in order to forecast droughts. The meta learner is an advanced ensemble method that achieves extremely high accuracy when it comes to predicting SPEI.
